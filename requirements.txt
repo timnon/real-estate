@@ -1,0 +1,5 @@
+geographiclib==2.0
+geopy==2.4.0
+numpy==1.26.0
+scipy==1.11.2
+xgboost==2.0.0
